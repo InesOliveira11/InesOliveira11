@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inês</h1>
-<h3 align="center">A passionate Full-Stack developer from Portugal.</h3>
+<h3 align="center">A passionate Full-Stack developer from Portugal🇵🇹 based in London🇬🇧.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
